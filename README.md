@@ -1,8 +1,10 @@
 # Set up and Run
 
-1. Install `trunk` && 'tauri'
+1. Install `trunk` && `tauri`
 
-    `cargo install trunk tauri`
+    ```
+    cargo install trunk tauri
+    ```
 
 2. run
 
