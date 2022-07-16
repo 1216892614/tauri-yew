@@ -1,0 +1,13 @@
+[build]
+dist = "../dist"
+release = false
+target = "index.html"
+
+[watch]
+watch = [
+  "../app/src/",
+]
+
+[serve]
+open = false
+port = 9000
