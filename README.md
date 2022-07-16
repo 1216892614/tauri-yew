@@ -3,7 +3,7 @@
 1. Install `trunk` && `tauri`
 
     ```
-    cargo install trunk tauri
+    cargo install trunk tauri-cli
     ```
 
 2. run
