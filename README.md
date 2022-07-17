@@ -1,21 +1,13 @@
 # Set up and Run
 
-1. Install `trunk` && `tauri`
+- dev
 
-    ```
-    cargo install trunk tauri-cli
-    ```
+``` bash
+cargo tauri dev
+```
 
-2. run
+- build
 
-    - dev
-
-    ``` bash
-    cargo tauri dev
-    ```
-
-    - build
-
-    ``` bash
-    cargo tauri build
-    ```
+``` bash
+cargo tauri build
+```
