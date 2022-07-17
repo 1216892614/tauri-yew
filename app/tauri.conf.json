@@ -7,7 +7,7 @@
         "withGlobalTauri": true
     },
     "package": {
-        "productName": "tauri-yew-demo",
+        "productName": "tauri-yew",
         "version": "0.1.0"
     },
     "tauri": {
@@ -58,7 +58,7 @@
                 "fullscreen": false,
                 "height": 600,
                 "resizable": true,
-                "title": "Tauri Yew Demo",
+                "title": "yew",
                 "width": 800
             }
         ]
